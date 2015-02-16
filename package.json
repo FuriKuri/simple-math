@@ -1,0 +1,22 @@
+{
+  "name": "simple-math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clj.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FuriKuri/simple-math"
+  },
+  "author": "Theo Pack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuriKuri/simple-math/issues"
+  },
+  "homepage": "https://github.com/FuriKuri/simple-math",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
